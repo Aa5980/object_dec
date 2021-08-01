@@ -1,0 +1,29 @@
+<annotation>
+    <folder>untitled folder 2</folder>
+    <filename>images2.jpg</filename>
+    <size>
+        <width>600</width>
+        <height>600</height>
+        <depth>3</depth>
+    </size>
+    <object>
+        <name>helmet</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>2</xmin>
+            <ymin>10</ymin>
+            <xmax>146</xmax>
+            <ymax>145</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>vest</name>
+        <difficult>0</difficult>
+        <bndbox>
+            <xmin>11</xmin>
+            <ymin>238</ymin>
+            <xmax>182</xmax>
+            <ymax>600</ymax>
+        </bndbox>
+    </object>
+</annotation>
